@@ -1,4 +1,4 @@
-THE ALPHA STORE
+#THE ALPHA STORE
 Welcome to THE ALPHA STORE, a dynamic and responsive front-end concept for a gaming hardware e-commerce website. This project showcases a complete thematic and stylistic transformation of an existing web template into a modern, visually appealing storefront for gaming laptops, mobiles, and accessories.
 
 The focus of this project was to apply front-end development skills to re-brand a website, enhancing its UI/UX with modern CSS effects and interactive JavaScript to fit a new, energetic target audience.
